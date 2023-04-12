@@ -57,7 +57,7 @@ export const IconWithCaption: React.FC<{
 					fontSize: 'inherit',
 					fontFamily: 'inherit',
 					color: 'inherit',
-					width: 'auto',
+					width: 'max-content',
 					padding: 0,
 				}}
 			>
